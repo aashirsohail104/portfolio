@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aashirsohail104.vercel.app/sitemap.xml
