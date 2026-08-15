@@ -1,0 +1,3 @@
+# Anas Electronics robots.txt
+User-agent: *
+Allow: /

@@ -95,6 +95,10 @@
 - **FR-006**: System MUST authenticate users via [NEEDS CLARIFICATION: auth method not specified - email/password, SSO, OAuth?]
 - **FR-007**: System MUST retain user data for [NEEDS CLARIFICATION: retention period not specified]
 
+*Frontend requirement (per constitution): before any component is built
+manually, the 21st.dev MCP MUST be searched and suitable components reused or
+adapted to the Anas Electronics design system.*
+
 ### Key Entities *(include if feature involves data)*
 
 - **[Entity 1]**: [What it represents, key attributes without implementation]

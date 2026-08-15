@@ -156,6 +156,9 @@ Examples of foundational tasks (adjust based on your project):
 - [ ] TXXX [P] Additional unit tests (if requested) in tests/unit/
 - [ ] TXXX Security hardening
 - [ ] TXXX Run quickstart.md validation
+- [ ] TXXX [P] [Frontend] Audit reused 21st.dev components against Anas Electronics design system
+- [ ] TXXX [P] [Frontend] Verify Lighthouse Performance ≥ 98, Accessibility ≥ 100, SEO ≥ 100, Best Practices ≥ 100 (CLS < 0.05, LCP < 2s, INP < 200ms)
+- [ ] TXXX [P] [Frontend] Verify WCAG 2.2 AA compliance and SEO assets (meta, Schema.org, Open Graph, robots.txt, sitemap.xml)
 
 ---
 

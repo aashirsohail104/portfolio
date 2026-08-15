@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Anas Electronics">
+  <rect width="64" height="64" rx="14" fill="#0d6efd" />
+  <path d="M20 46V18h10a8 8 0 010 16H20m0-16h9" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M42 46L42 30m0-6v-2" stroke="#fff" stroke-width="5" stroke-linecap="round" />
+</svg>

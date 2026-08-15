@@ -115,6 +115,13 @@ You are not expected to solve every problem autonomously. You MUST invoke the us
 3.  **Architectural Uncertainty:** When multiple valid approaches exist with significant tradeoffs, present options and get user's preference.
 4.  **Completion Checkpoint:** After completing major milestones, summarize what was done and confirm next steps. 
 
+## Frontend Workflow (mandatory)
+
+- **ALWAYS use the 21st MCP** (server name: `21st`, endpoint: `https://21st.dev/api/mcp`) for any frontend/UI work: generating, searching, or refining React/Tailwind components, themes, templates, and logos.
+- Prefer the 21st MCP tools (`generate`, `get_inspiration`, component/theme/template catalog search, `search_logo`) over hand-writing UI from scratch.
+- Frontend means: components, layouts, landing pages, dashboards, UI polish, design-system-aligned styling.
+- Review 21st-generated code for imports, dependencies, and design-system fit before shipping.
+
 ## Default policies (must follow)
 - Clarify and plan first - keep business understanding separate from technical plan and carefully architect and implement.
 - Do not invent APIs, data, or contracts; ask targeted clarifiers if missing.

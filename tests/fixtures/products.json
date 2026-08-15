@@ -1,0 +1,277 @@
+[
+  {
+    "id": "professional-12v-smps-10a-20a-30a",
+    "slug": "professional-12v-smps-10a-20a-30a",
+    "category": "Power Supply",
+    "subCategory": "SMPS",
+    "productName": "Professional 12V Power Supply – 10A / 20A / 30A | AC to DC SMPS Adapter | Industrial Grade",
+    "shortDescription": "Industrial-grade 12V SMPS power supply available in 10A, 20A and 30A models with full protection.",
+    "fullDescription": "This professional 12V switching power supply converts 110-220V AC input to regulated 12V DC, available in 10A, 20A, and 30A versions. It is built to industrial grade with high efficiency and low heat, plus overload, short-circuit, and over-voltage protection. Suitable for LED systems, CCTV, routers, automation equipment, and battery charging DIY projects.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "AC 110-220V"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Output Current",
+        "value": "10A / 20A / 30A"
+      },
+      {
+        "label": "Type",
+        "value": "Industrial Grade SMPS"
+      },
+      {
+        "label": "Protection",
+        "value": "Overload, short-circuit, over-voltage"
+      }
+    ],
+    "features": [
+      "Industrial grade SMPS",
+      "High efficiency with low heat",
+      "Overload, short-circuit and over-voltage protection",
+      "Ideal for LED, CCTV, routers and DIY projects"
+    ],
+    "voltage": "12V DC",
+    "chargingCurrent": "10A / 20A / 30A",
+    "stockStatus": "in_stock",
+    "price": 1690,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v10a.jpg?v=1765286081",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v10a.jpg?v=1765286081",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v20a.jpg?v=1765286084",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v30a.jpg?v=1765286086"
+    ],
+    "tags": [
+      "power supply",
+      "smps",
+      "12v",
+      "dc adapter",
+      "industrial"
+    ],
+    "relatedProducts": [
+      "professional-24v-smps-10a-20a-30a",
+      "12v-100a-server-power-supply",
+      "14v-37a-power-supply"
+    ],
+    "variants": [
+      {
+        "name": "12V 10A",
+        "price": 1690,
+        "oldPrice": null,
+        "stockStatus": "sold_out"
+      },
+      {
+        "name": "12V 20A",
+        "price": 2290,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      },
+      {
+        "name": "12V 30A",
+        "price": 2990,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      }
+    ]
+  },
+  {
+    "id": "suoer-sua-2000c-inverter-charger",
+    "slug": "suoer-sua-2000c-inverter-charger",
+    "category": "Inverter",
+    "subCategory": "Inverter with Charger",
+    "brand": "Suoer",
+    "productName": "100% Orignol Suoer 12 Volt Dc To 220 Volt Ac 2000 Watt DC AC AC Power Inverter With 20A Charger (SUA-2000C)",
+    "shortDescription": "2000W modified sine wave inverter converting 12V/24V battery power to 110V/220V/230V AC with a built-in 20A charger.",
+    "fullDescription": "The SUA-2000C is a 2000W power inverter built for home use, converting DC 12V/24V portable power to AC 110V/220V/230V. It includes a built-in 20A charger and a 5V 1A USB interface for mobile devices. Smart soft-start and high conversion efficiency keep operation reliable, while an MCU controls the cooling fan and working status to save power and extend service life. Multiple safety protections guard the unit during daily use.",
+    "specifications": [
+      {
+        "label": "Output Power",
+        "value": "2000W"
+      },
+      {
+        "label": "Input Voltage",
+        "value": "12V DC / 24V DC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "110V / 220V / 230V AC"
+      },
+      {
+        "label": "Built-in Charger",
+        "value": "20A"
+      },
+      {
+        "label": "USB Output",
+        "value": "5V 1A"
+      }
+    ],
+    "features": [
+      "Built-in max 20A charger",
+      "Modified sine waveform output",
+      "Smart soft start and high conversion efficiency",
+      "Multiple safety protections",
+      "MCU-controlled cooling fan for longer service life"
+    ],
+    "voltage": "12V / 24V DC to 110V / 220V / 230V AC",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "sold_out",
+    "price": 14999,
+    "oldPrice": 25000,
+    "discount": 40,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044"
+    ],
+    "tags": [
+      "inverter",
+      "suoer",
+      "2000w inverter",
+      "inverter with charger",
+      "battery charger",
+      "solar"
+    ],
+    "relatedProducts": [
+      "suoer-saa-1000c-inverter-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "suoer-saa-1000c-inverter-charger",
+    "slug": "suoer-saa-1000c-inverter-charger",
+    "category": "Inverter",
+    "subCategory": "Inverter with Charger",
+    "brand": "Suoer",
+    "productName": "100% Orignol Suoer 12 Volt Dc To 220 Volt Ac 1000 Watt DC AC AC Power Inverter With 10A Charger (SAA-1000C)",
+    "shortDescription": "1000W modified sine wave inverter that steps 12V DC battery power up to 220V AC and adds a built-in 10A charger for lead-acid batteries.",
+    "fullDescription": "The SAA-1000C is a 1000W power inverter for home use, converting 12V DC from a battery into 220V AC for resistive household loads. A built-in 10A charger recharges the connected battery from mains, while the inverter and charger circuits work independently without interference. A 5V 2A USB port lets you charge phones and small devices directly, and reverse-connection protection guards against wiring mistakes.",
+    "specifications": [
+      {
+        "label": "Output Power",
+        "value": "1000W"
+      },
+      {
+        "label": "Input Voltage",
+        "value": "12V DC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "220V AC"
+      },
+      {
+        "label": "Built-in Charger",
+        "value": "10A"
+      },
+      {
+        "label": "USB Output",
+        "value": "5V 2A"
+      }
+    ],
+    "features": [
+      "Built-in 10A battery charger",
+      "Modified sine wave output",
+      "Inverter and charger operate independently",
+      "Reverse connection protection",
+      "5V 2A USB charging interface"
+    ],
+    "voltage": "12V DC to 220V AC",
+    "chargingCurrent": "10A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "in_stock",
+    "price": 9999,
+    "oldPrice": 15000,
+    "discount": 33,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167"
+    ],
+    "tags": [
+      "inverter",
+      "suoer",
+      "1000w inverter",
+      "inverter with charger",
+      "battery charger",
+      "home power backup"
+    ],
+    "relatedProducts": [
+      "suoer-sua-2000c-inverter-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "ezee20a-variable-pulse-repair-charger",
+    "slug": "ezee20a-variable-pulse-repair-charger",
+    "category": "Battery Charger",
+    "subCategory": "Pulse Repair",
+    "brand": "EZEE",
+    "productName": "EZEE20A 12V / 24V 20A Variable Automatic Pulse Repair Battery Charger – Smart Charger for All Batteries",
+    "shortDescription": "Variable 20A automatic pulse repair charger for 12V/24V batteries with adjustable charging current.",
+    "fullDescription": "This EZEE20A charger offers adjustable, variable charging current up to 20A so you can match the charge rate to different battery capacities. Pulse repair technology helps recover weak or sulphated batteries, and the charger automatically stops once the battery is fully charged. It detects and supports both 12V and 24V systems for versatile use.",
+    "specifications": [
+      {
+        "label": "Charging Voltage",
+        "value": "12V / 24V"
+      },
+      {
+        "label": "Charging Current",
+        "value": "Up to 20A (variable)"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Compatible with all battery types"
+      },
+      {
+        "label": "Charging Mode",
+        "value": "Automatic with full-charge stop"
+      }
+    ],
+    "features": [
+      "Variable charging control up to 20A",
+      "12V / 24V automatic detection",
+      "Pulse repair for weak or sulphated batteries",
+      "Automatic stop at full charge"
+    ],
+    "voltage": "12V / 24V",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "All battery types",
+    "stockStatus": "in_stock",
+    "price": 4500,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593"
+    ],
+    "tags": [
+      "battery charger",
+      "ezee",
+      "pulse repair charger",
+      "variable charger",
+      "12v 24v"
+    ],
+    "relatedProducts": [
+      "ezee20a-pulse-repair-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee-smart-charger-12v-10a"
+    ]
+  }
+]

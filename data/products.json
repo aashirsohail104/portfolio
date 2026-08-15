@@ -1,0 +1,2083 @@
+[
+  {
+    "id": "suoer-saa-1000c-inverter-charger",
+    "slug": "suoer-saa-1000c-inverter-charger",
+    "category": "Inverter",
+    "subCategory": "Inverter with Charger",
+    "brand": "Suoer",
+    "productName": "100% Orignol Suoer 12 Volt Dc To 220 Volt Ac 1000 Watt DC AC AC Power Inverter With 10A Charger (SAA-1000C)",
+    "shortDescription": "1000W modified sine wave inverter that steps 12V DC battery power up to 220V AC and adds a built-in 10A charger for lead-acid batteries.",
+    "fullDescription": "The SAA-1000C is a 1000W power inverter for home use, converting 12V DC from a battery into 220V AC for resistive household loads. A built-in 10A charger recharges the connected battery from mains, while the inverter and charger circuits work independently without interference. A 5V 2A USB port lets you charge phones and small devices directly, and reverse-connection protection guards against wiring mistakes.",
+    "specifications": [
+      {
+        "label": "Output Power",
+        "value": "1000W"
+      },
+      {
+        "label": "Input Voltage",
+        "value": "12V DC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "220V AC"
+      },
+      {
+        "label": "Built-in Charger",
+        "value": "10A"
+      },
+      {
+        "label": "USB Output",
+        "value": "5V 2A"
+      }
+    ],
+    "features": [
+      "Built-in 10A battery charger",
+      "Modified sine wave output",
+      "Inverter and charger operate independently",
+      "Reverse connection protection",
+      "5V 2A USB charging interface"
+    ],
+    "voltage": "12V DC to 220V AC",
+    "chargingCurrent": "10A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "in_stock",
+    "price": 9999,
+    "oldPrice": 15000,
+    "discount": 33,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SAA-1000C.webp?v=1728918167"
+    ],
+    "tags": [
+      "inverter",
+      "suoer",
+      "1000w inverter",
+      "inverter with charger",
+      "battery charger",
+      "home power backup"
+    ],
+    "relatedProducts": [
+      "suoer-sua-2000c-inverter-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "suoer-sua-2000c-inverter-charger",
+    "slug": "suoer-sua-2000c-inverter-charger",
+    "category": "Inverter",
+    "subCategory": "Inverter with Charger",
+    "brand": "Suoer",
+    "productName": "100% Orignol Suoer 12 Volt Dc To 220 Volt Ac 2000 Watt DC AC AC Power Inverter With 20A Charger (SUA-2000C)",
+    "shortDescription": "2000W modified sine wave inverter converting 12V/24V battery power to 110V/220V/230V AC with a built-in 20A charger.",
+    "fullDescription": "The SUA-2000C is a 2000W power inverter built for home use, converting DC 12V/24V portable power to AC 110V/220V/230V. It includes a built-in 20A charger and a 5V 1A USB interface for mobile devices. Smart soft-start and high conversion efficiency keep operation reliable, while an MCU controls the cooling fan and working status to save power and extend service life. Multiple safety protections guard the unit during daily use.",
+    "specifications": [
+      {
+        "label": "Output Power",
+        "value": "2000W"
+      },
+      {
+        "label": "Input Voltage",
+        "value": "12V DC / 24V DC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "110V / 220V / 230V AC"
+      },
+      {
+        "label": "Built-in Charger",
+        "value": "20A"
+      },
+      {
+        "label": "USB Output",
+        "value": "5V 1A"
+      }
+    ],
+    "features": [
+      "Built-in max 20A charger",
+      "Modified sine waveform output",
+      "Smart soft start and high conversion efficiency",
+      "Multiple safety protections",
+      "MCU-controlled cooling fan for longer service life"
+    ],
+    "voltage": "12V / 24V DC to 110V / 220V / 230V AC",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "sold_out",
+    "price": 14999,
+    "oldPrice": 25000,
+    "discount": 40,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/suoer_E3_80_90-modified-sine-wave-inverter-_E3_80_91-12_main-3.jpg?v=1728917044"
+    ],
+    "tags": [
+      "inverter",
+      "suoer",
+      "2000w inverter",
+      "inverter with charger",
+      "battery charger",
+      "solar"
+    ],
+    "relatedProducts": [
+      "suoer-saa-1000c-inverter-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "suoer-son-20a-car-battery-charger",
+    "slug": "suoer-son-20a-car-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Automatic",
+    "brand": "Suoer",
+    "productName": "100% Orignol Suoer 12v 24v 20A Automatic Portable Car Battery Charger",
+    "shortDescription": "Automatic portable car battery charger for 12V/24V batteries delivering up to 10A/20A with PWM charging.",
+    "fullDescription": "The SON-20A+ is an automatic portable charger for 12V or 24V car and household batteries. It uses PWM charging and automatically stops charging once the battery is full, with an LED screen control panel for live status. A manual switch selects between 12V and 24V systems, and it suits gel, AGM, and lead-acid batteries on a 220V mains input.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "220V AC"
+      },
+      {
+        "label": "Charging Voltage",
+        "value": "12V / 24V"
+      },
+      {
+        "label": "Max Charging Current",
+        "value": "10A / 20A"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Lead Acid / AGM / Gel"
+      }
+    ],
+    "features": [
+      "PWM charging with automatic stop at full charge",
+      "LED screen display control panel",
+      "Manual 12V/24V selection switch",
+      "Portable design for car and home use"
+    ],
+    "voltage": "12V / 24V",
+    "chargingCurrent": "10A / 20A",
+    "batteryCompatibility": "Lead Acid / AGM / Gel",
+    "stockStatus": "in_stock",
+    "price": 6999,
+    "oldPrice": 8000,
+    "discount": 13,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/1-1FH5160P1c2.jpg?v=1728918219",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/1-1FH5160P1c2.jpg?v=1728918219",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/1-1FH5160P1c2.jpg?v=1728918219"
+    ],
+    "tags": [
+      "battery charger",
+      "suoer",
+      "car battery charger",
+      "automatic charger",
+      "12v 24v",
+      "20a"
+    ],
+    "relatedProducts": [
+      "suoer-son-10a-battery-charger",
+      "ezee-smart-charger-12v-10a",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "12v-100a-server-power-supply",
+    "slug": "12v-100a-server-power-supply",
+    "category": "Server Power Supply",
+    "productName": "12V 100A Server Power Supply (Not Battery Charger)",
+    "shortDescription": "100A 12V server power supply for high-current 12V loads and bulk battery charging projects (not a dedicated battery charger).",
+    "fullDescription": "This is a high-current 12V 100A server power supply unit suited for 12V DC loads and larger battery charging projects. It is explicitly not a battery charger, so no automatic cut-off or charging logic is built in. Each unit is quality checked and tested before shipping.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "12V DC"
+      },
+      {
+        "label": "Output Current",
+        "value": "100A"
+      },
+      {
+        "label": "Type",
+        "value": "Server Power Supply (not a battery charger)"
+      }
+    ],
+    "features": [
+      "High continuous 100A output",
+      "Tested working before shipping",
+      "Ideal for 12V DC loads and charging projects"
+    ],
+    "voltage": "12V DC",
+    "chargingCurrent": "100A",
+    "stockStatus": "sold_out",
+    "price": 2999,
+    "oldPrice": 5000,
+    "discount": 40,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Server-Power-Supply-DPS-1200FBA-438202-002-440785-001-for-DL580G5-HSTNS-PD11-1200W.jpg?v=1728917936",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Server-Power-Supply-DPS-1200FBA-438202-002-440785-001-for-DL580G5-HSTNS-PD11-1200W.jpg?v=1728917936",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Server-Power-Supply-DPS-1200FBA-438202-002-440785-001-for-DL580G5-HSTNS-PD11-1200W.jpg?v=1728917936"
+    ],
+    "tags": [
+      "server power supply",
+      "12v",
+      "100a",
+      "power supply",
+      "battery charging"
+    ],
+    "relatedProducts": [
+      "14v-57a-server-battery-charger",
+      "hp-atsn-14v-82a-server-charger",
+      "professional-12v-smps-10a-20a-30a"
+    ]
+  },
+  {
+    "id": "ezee20a-pulse-repair-charger",
+    "slug": "ezee20a-pulse-repair-charger",
+    "category": "Battery Charger",
+    "subCategory": "Pulse Repair",
+    "brand": "EZEE",
+    "productName": "12V 24V 20A Automatic Pulse Repair Charger For All Batterys - EZEE20A",
+    "shortDescription": "20A automatic pulse repair charger for 12V/24V batteries that revives weak cells and restores charge efficiency.",
+    "fullDescription": "The EZEE20A sends automated pulse signals to break down battery sulfation and restore charge efficiency for older or weak batteries. It is automatic for 12V and 24V systems, works with a wide range of battery types, and includes overcharge and short-circuit protection. A simple plug-and-play interface lets you start charging immediately after selecting your battery type.",
+    "specifications": [
+      {
+        "label": "Charging Voltage",
+        "value": "12V / 24V"
+      },
+      {
+        "label": "Charging Current",
+        "value": "20A"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Compatible with all battery types"
+      },
+      {
+        "label": "Protection",
+        "value": "Overcharge and short-circuit protection"
+      }
+    ],
+    "features": [
+      "Intelligent pulse repair technology",
+      "Works with all battery types",
+      "Simple plug-and-play interface",
+      "Overcharge and short-circuit protection"
+    ],
+    "voltage": "12V / 24V",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "All battery types",
+    "stockStatus": "in_stock",
+    "price": 4499,
+    "oldPrice": 5000,
+    "discount": 10,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12V-24V-20A-Automatic-Pulse-Repair-Charger-For-All-Batterys-EZEE20A-My-Store-80682737.jpg?v=1728915525",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12V-24V-20A-Automatic-Pulse-Repair-Charger-For-All-Batterys-EZEE20A-My-Store-80682737.jpg?v=1728915525",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12V-24V-20A-Automatic-Pulse-Repair-Charger-For-All-Batterys-EZEE20A-My-Store-80682737.jpg?v=1728915525"
+    ],
+    "tags": [
+      "battery charger",
+      "ezee",
+      "pulse repair charger",
+      "automatic charger",
+      "12v 24v"
+    ],
+    "relatedProducts": [
+      "ezee20a-variable-pulse-repair-charger",
+      "suoer-son-20a-car-battery-charger",
+      "14v-32a-battery-charger"
+    ]
+  },
+  {
+    "id": "14v-32a-battery-charger",
+    "slug": "14v-32a-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Server",
+    "productName": "14v 32A Battery Charger For All Batterys",
+    "shortDescription": "14V 32A automatic battery charger that charges batteries up to 150Ah/200Ah and cuts off automatically at full charge.",
+    "fullDescription": "This 14V 32A charger charges a wide range of batteries, comfortably handling up to 150Ah with the ability to charge 200Ah batteries. It works even on low mains voltage such as 100V, making it useful during fluctuating supply. An automatic cut-off stops charging when the battery is full, and the unit ships with 6mm cables fitted with alligator clips. No warranty is provided for this item.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "32A"
+      },
+      {
+        "label": "Battery Capacity",
+        "value": "Up to 150Ah (recommended), 200Ah max"
+      },
+      {
+        "label": "Wiring",
+        "value": "6mm cables with alligator clips"
+      }
+    ],
+    "features": [
+      "Automatic cut-off at full charge",
+      "Works on low mains voltage (around 100V)",
+      "Charges batteries up to 150Ah / 200Ah",
+      "Includes 6mm wires with alligator clips"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "32A",
+    "stockStatus": "in_stock",
+    "price": 3999,
+    "oldPrice": 4500,
+    "discount": 11,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2021-07-16-at-12.05.54-AM.jpg?v=1728917869",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2021-07-16-at-12.05.54-AM.jpg?v=1728917869",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2021-07-16-at-12.05.54-AM.jpg?v=1728917869"
+    ],
+    "tags": [
+      "battery charger",
+      "server battery charger",
+      "14v",
+      "32a",
+      "automatic"
+    ],
+    "relatedProducts": [
+      "14v-57a-server-battery-charger",
+      "14v-47a-server-battery-charger",
+      "14v-37a-power-supply"
+    ]
+  },
+  {
+    "id": "14v-37a-power-supply",
+    "slug": "14v-37a-power-supply",
+    "category": "Power Supply",
+    "subCategory": "14V Switching",
+    "productName": "14v 37A Battery Charger For All Battery",
+    "shortDescription": "14V 37A 470W switching power supply for high-current DC loads and battery charging use.",
+    "fullDescription": "This 14V 37A 470W switching power supply delivers steady DC output for amplifiers, DC motors, and battery charging setups. It handles low mains voltages such as 100V and provides a consistent 14V output for 12V battery applications. Because it is a power supply rather than a smart charger, it is best used where the load or a charge controller manages the battery.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "37A"
+      },
+      {
+        "label": "Output Power",
+        "value": "470W"
+      },
+      {
+        "label": "Type",
+        "value": "Switching Power Supply"
+      }
+    ],
+    "features": [
+      "470W switching power supply",
+      "Works on low mains voltage",
+      "Suitable for 12V battery and DC loads"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "37A",
+    "stockStatus": "sold_out",
+    "price": 3800,
+    "oldPrice": 4500,
+    "discount": 16,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2020-12-17-at-2.19.06-PM.jpg?v=1728917892",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2020-12-17-at-2.19.06-PM.jpg?v=1728917892",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/WhatsApp-Image-2020-12-17-at-2.19.06-PM.jpg?v=1728917892"
+    ],
+    "tags": [
+      "power supply",
+      "14v",
+      "37a",
+      "switching power supply",
+      "battery charger"
+    ],
+    "relatedProducts": [
+      "14v-32a-battery-charger",
+      "14v-47a-server-battery-charger",
+      "12v-100a-server-power-supply"
+    ]
+  },
+  {
+    "id": "14v-47a-server-battery-charger",
+    "slug": "14v-47a-server-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Server",
+    "productName": "14V 47A SERVER BATTERY CHARGER For All Batterys",
+    "shortDescription": "High-current 14V 47A automatic server battery charger for all battery types with full-charge cut-off.",
+    "fullDescription": "This 14V 47A server battery charger automatically charges batteries until full and then switches off, protecting them from overcharging. It keeps working even on low mains voltage such as 100V and can charge batteries up to 150Ah with ease. The unit includes 6mm cables fitted with alligator clips for direct connection.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "47A"
+      },
+      {
+        "label": "Type",
+        "value": "Server Battery Charger"
+      },
+      {
+        "label": "Wiring",
+        "value": "6mm cables with alligator clips"
+      }
+    ],
+    "features": [
+      "Automatic full-charge cut-off",
+      "Runs on low mains voltage",
+      "Charges up to 150Ah batteries",
+      "6mm wires with alligator clips included"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "47A",
+    "stockStatus": "in_stock",
+    "price": 3999,
+    "oldPrice": 4500,
+    "discount": 11,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/14V-47A-Battery-Charger.jpg?v=1728915956",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/14V-47A-Battery-Charger.jpg?v=1728915956",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/23898-DPS-600PB-1_A_24681_gallery.jpg?v=1728915958",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/dps-600pb-label.jpg?v=1728915961"
+    ],
+    "tags": [
+      "battery charger",
+      "server battery charger",
+      "14v",
+      "47a",
+      "automatic"
+    ],
+    "relatedProducts": [
+      "14v-57a-server-battery-charger",
+      "14v-32a-battery-charger",
+      "hp-atsn-14v-82a-server-charger"
+    ]
+  },
+  {
+    "id": "14v-57a-server-battery-charger",
+    "slug": "14v-57a-server-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Server",
+    "productName": "14V 57A Server Battery Charger For All Batterys",
+    "shortDescription": "14V 57A automatic server battery charger for all battery types with full-charge cut-off.",
+    "fullDescription": "This 14V 57A server battery charger automatically charges batteries until full and then switches off, protecting them from overcharging. It keeps working even on low mains voltage such as 100V and can charge batteries up to 150Ah with ease. The unit ships with 6mm cables fitted with alligator clips for direct connection.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "57A"
+      },
+      {
+        "label": "Type",
+        "value": "Server Battery Charger"
+      },
+      {
+        "label": "Wiring",
+        "value": "6mm cables with alligator clips"
+      }
+    ],
+    "features": [
+      "Automatic full-charge cut-off",
+      "Runs on low mains voltage",
+      "Charges up to 150Ah batteries",
+      "6mm wires with alligator clips included"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "57A",
+    "stockStatus": "in_stock",
+    "price": 3999,
+    "oldPrice": 4500,
+    "discount": 11,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/57A-Battery-Charger.jpg?v=1728917818",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/57A-Battery-Charger.jpg?v=1728917818",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/57A-Battery-Charger.jpg?v=1728917818"
+    ],
+    "tags": [
+      "battery charger",
+      "server battery charger",
+      "14v",
+      "57a",
+      "automatic"
+    ],
+    "relatedProducts": [
+      "14v-47a-server-battery-charger",
+      "hp-atsn-14v-82a-server-charger",
+      "14v-32a-battery-charger"
+    ]
+  },
+  {
+    "id": "14v-82a-server-battery-charger",
+    "slug": "14v-82a-server-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Server",
+    "productName": "14v 82A Server Battery Charger For All Batterys (Free Delivery)",
+    "shortDescription": "14V 82A high-output server battery charger rated 1000W with dual-fan cooling and automatic cut-off.",
+    "fullDescription": "This 82A server battery charger delivers up to 1000W with a 14V output and dual-fan cooling, making it one of the most powerful chargers in this range. It stops charging automatically once the battery is full and continues working on low mains supplies. Designed for very large batteries up to 200Ah, it ships with thick 6mm cables fitted with alligator clips. This listing includes free delivery.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "82A"
+      },
+      {
+        "label": "Max Output Power",
+        "value": "1000W"
+      },
+      {
+        "label": "Cooling",
+        "value": "2 Fans"
+      }
+    ],
+    "features": [
+      "82A output with 1000W maximum power",
+      "Dual-fan cooling",
+      "Automatic full-charge cut-off",
+      "Charges large batteries up to 200Ah",
+      "Free delivery"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "82A",
+    "stockStatus": "sold_out",
+    "price": 4499,
+    "oldPrice": 5000,
+    "discount": 10,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180423_175014-scaled.jpg?v=1728915684",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180423_175014-scaled.jpg?v=1728915684",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180401_162807-scaled.jpg?v=1728915687",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180401_214538-scaled.jpg?v=1728915690",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180401_214545-scaled.jpg?v=1728915693",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180401_214553-scaled.jpg?v=1728915697",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180423_175005-scaled.jpg?v=1728915701",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180423_175022-scaled.jpg?v=1728915704",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/20180423_175113-scaled.jpg?v=1728915707"
+    ],
+    "tags": [
+      "battery charger",
+      "server battery charger",
+      "14v",
+      "82a",
+      "automatic",
+      "free delivery"
+    ],
+    "relatedProducts": [
+      "hp-atsn-14v-82a-server-charger",
+      "14v-57a-server-battery-charger",
+      "14v-47a-server-battery-charger"
+    ]
+  },
+  {
+    "id": "18650-8-bay-battery-charger",
+    "slug": "18650-8-bay-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Universal",
+    "productName": "18650 Battery Charger 8 Bay for Rechargeable Batteries and Universal Smart Battery Charger for 18650",
+    "shortDescription": "Universal 8-bay smart charger for 18650 lithium ion rechargeable batteries with overcharge protection.",
+    "fullDescription": "This smart charger charges 1 to 8 18650 lithium ion batteries at once, delivering a 4.2V output per slot at up to 2400mA. It accepts 110V-240V mains input and includes over-current and short-circuit protection, so it does not need to be unplugged immediately when full. It also has built-in overcharge prevention for safer long-term use.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "110V-240V"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "4.2V"
+      },
+      {
+        "label": "Output Current",
+        "value": "2400mA"
+      },
+      {
+        "label": "Slots",
+        "value": "8"
+      },
+      {
+        "label": "Battery Compatibility",
+        "value": "18650 Li-ion"
+      }
+    ],
+    "features": [
+      "8 bays for 1-8 18650 batteries",
+      "Universal smart charging",
+      "Over-current and short-circuit protection",
+      "Built-in overcharge prevention"
+    ],
+    "voltage": "110V-240V AC",
+    "chargingCurrent": "2400mA",
+    "batteryCompatibility": "18650 Li-ion",
+    "stockStatus": "sold_out",
+    "price": 2299,
+    "oldPrice": 2500,
+    "discount": 8,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/18650-battery-charger-8-bay-for-recharge_description-0.jpg?v=1728917513",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/18650-battery-charger-8-bay-for-recharge_description-0.jpg?v=1728917513",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/18650-battery-charger-8-bay-for-recharge_description-0.jpg?v=1728917513"
+    ],
+    "tags": [
+      "battery charger",
+      "18650",
+      "universal charger",
+      "smart charger",
+      "8 bay"
+    ],
+    "relatedProducts": [
+      "gotion-3-7v-50ah-cell",
+      "xh-m609-low-voltage-module",
+      "ezee-smart-charger-12v-10a"
+    ]
+  },
+  {
+    "id": "digitech-3-in-1-hybrid-device",
+    "slug": "digitech-3-in-1-hybrid-device",
+    "category": "Battery Charger",
+    "subCategory": "Hybrid UPS/Solar",
+    "brand": "Digitech",
+    "productName": "Digitech 3-in-1 Device – Convert Simple UPS into Hybrid Solar Inverter",
+    "shortDescription": "3-in-1 device that converts a simple UPS into a hybrid solar inverter with a charge controller, DC supply and battery charger.",
+    "fullDescription": "The Digitech 3-in-1 device turns a standard UPS into a hybrid solar inverter system, combining a solar charge controller, 12V DC power supply, and battery charger in one unit. It manages energy from solar panels, batteries, and AC mains so your existing UPS becomes smarter and more energy efficient. A regulated 12V DC output powers fans and lights directly, while AC/DC charging supports both grid and solar sources. It is an affordable way to upgrade to solar without replacing your whole inverter.",
+    "specifications": [
+      {
+        "label": "DC Output",
+        "value": "12V DC (regulated)"
+      },
+      {
+        "label": "Functions",
+        "value": "Solar charge controller, DC power supply, battery charger"
+      },
+      {
+        "label": "Power Sources",
+        "value": "Solar, battery, and AC mains"
+      },
+      {
+        "label": "Charge Type",
+        "value": "AC / DC battery charging"
+      }
+    ],
+    "features": [
+      "Converts a simple UPS into a hybrid solar inverter",
+      "Built-in hybrid charge controller",
+      "Regulated 12V DC output for fans and lights",
+      "Grid and solar battery charging",
+      "Manages solar, battery, and mains power"
+    ],
+    "voltage": "12V DC",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "in_stock",
+    "price": 3399,
+    "oldPrice": 5500,
+    "discount": 38,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Digitech-3-in-1-Device-Can-Change-Your-Simple-UPS-In-Hybrid-Solar-Inverter-My-Store-80730585.jpg?v=1728916654",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Digitech-3-in-1-Device-Can-Change-Your-Simple-UPS-In-Hybrid-Solar-Inverter-My-Store-80730585.jpg?v=1728916654",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Digitech-3-in-1-Device-Can-Change-Your-Simple-UPS-In-Hybrid-Solar-Inverter-My-Store-80730611.jpg?v=1728916656"
+    ],
+    "tags": [
+      "battery charger",
+      "digitech",
+      "hybrid ups",
+      "solar inverter",
+      "solar charge controller"
+    ],
+    "relatedProducts": [
+      "ezee20a-pulse-repair-charger",
+      "ezee20a-variable-pulse-repair-charger",
+      "suoer-son-20a-car-battery-charger"
+    ],
+    "variants": [
+      {
+        "name": "HU Model – Hybrid UPS Management",
+        "price": 3399,
+        "oldPrice": 5500,
+        "stockStatus": "in_stock"
+      },
+      {
+        "name": "DL Model – DC Load Management",
+        "price": 3499,
+        "oldPrice": 5500,
+        "stockStatus": "in_stock"
+      }
+    ]
+  },
+  {
+    "id": "ezee20a-variable-pulse-repair-charger",
+    "slug": "ezee20a-variable-pulse-repair-charger",
+    "category": "Battery Charger",
+    "subCategory": "Pulse Repair",
+    "brand": "EZEE",
+    "productName": "EZEE20A 12V / 24V 20A Variable Automatic Pulse Repair Battery Charger – Smart Charger for All Batteries",
+    "shortDescription": "Variable 20A automatic pulse repair charger for 12V/24V batteries with adjustable charging current.",
+    "fullDescription": "This EZEE20A charger offers adjustable, variable charging current up to 20A so you can match the charge rate to different battery capacities. Pulse repair technology helps recover weak or sulphated batteries, and the charger automatically stops once the battery is fully charged. It detects and supports both 12V and 24V systems for versatile use.",
+    "specifications": [
+      {
+        "label": "Charging Voltage",
+        "value": "12V / 24V"
+      },
+      {
+        "label": "Charging Current",
+        "value": "Up to 20A (variable)"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Compatible with all battery types"
+      },
+      {
+        "label": "Charging Mode",
+        "value": "Automatic with full-charge stop"
+      }
+    ],
+    "features": [
+      "Variable charging control up to 20A",
+      "12V / 24V automatic detection",
+      "Pulse repair for weak or sulphated batteries",
+      "Automatic stop at full charge"
+    ],
+    "voltage": "12V / 24V",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "All battery types",
+    "stockStatus": "in_stock",
+    "price": 4500,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/5C068EC3-205A-4905-9AA6-1DCA2F368CDB.jpg?v=1768146593"
+    ],
+    "tags": [
+      "battery charger",
+      "ezee",
+      "pulse repair charger",
+      "variable charger",
+      "12v 24v"
+    ],
+    "relatedProducts": [
+      "ezee20a-pulse-repair-charger",
+      "suoer-son-20a-car-battery-charger",
+      "ezee-smart-charger-12v-10a"
+    ]
+  },
+  {
+    "id": "gotion-3-7v-50ah-cell",
+    "slug": "gotion-3-7v-50ah-cell",
+    "category": "Cell",
+    "subCategory": "Prismatic",
+    "brand": "Gotion",
+    "productName": "Gotion 3.7V 50Ah Prismatic Lithium Battery Cell – Grade A Rechargeable Power Supply & Energy Storage Cell",
+    "shortDescription": "Grade A Gotion prismatic lithium battery cell with 3.7V nominal voltage and 50Ah capacity.",
+    "fullDescription": "This Gotion prismatic lithium cell provides 3.7V and 50Ah capacity for energy storage systems, solar setups, electric vehicles, UPS backup, and custom battery packs. Its prismatic design allows compact pack assembly with efficient space use, while high energy density and low internal resistance support stable discharge and fast charging. As a Grade A cell, it delivers long cycle life for demanding continuous applications.",
+    "specifications": [
+      {
+        "label": "Nominal Voltage",
+        "value": "3.7V"
+      },
+      {
+        "label": "Capacity",
+        "value": "50Ah"
+      },
+      {
+        "label": "Cell Type",
+        "value": "Prismatic Lithium (Grade A)"
+      },
+      {
+        "label": "Chemistry",
+        "value": "NMC"
+      }
+    ],
+    "features": [
+      "Grade A prismatic lithium cell",
+      "High energy density with low internal resistance",
+      "Prismatic design for compact pack assembly",
+      "Supports fast charging and long cycle life"
+    ],
+    "voltage": "3.7V",
+    "batteryCompatibility": "Li-ion (prismatic)",
+    "stockStatus": "in_stock",
+    "price": 6499,
+    "oldPrice": 7999,
+    "discount": 19,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/cellno2.webp?v=1784118341",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/cellno2.webp?v=1784118341",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/cellno2.webp?v=1784118341"
+    ],
+    "tags": [
+      "cell",
+      "gotion",
+      "lithium battery",
+      "prismatic",
+      "energy storage",
+      "3.7v 50ah"
+    ],
+    "relatedProducts": [
+      "18650-8-bay-battery-charger",
+      "xh-m609-low-voltage-module",
+      "simtek-planet-40-mppt-controller"
+    ]
+  },
+  {
+    "id": "homeax-smart-charger-12v-10a",
+    "slug": "homeax-smart-charger-12v-10a",
+    "category": "Battery Charger",
+    "subCategory": "Smart",
+    "brand": "Homeax",
+    "productName": "Homeax Smart Battery Charger Dc12V 10A",
+    "shortDescription": "Homeax smart 12V battery charger with 10A output, 3-stage charging, and temperature monitoring.",
+    "fullDescription": "The Homeax 12V 10A smart charger takes 220V mains input and delivers a 14.5V charging output for 12V batteries. A temperature feature and 3-stage charging profile protect the battery and improve charge quality, making it a dependable solution for routine maintenance and slow charging.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "220V AC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "14.5V"
+      },
+      {
+        "label": "Output Current",
+        "value": "10A"
+      },
+      {
+        "label": "Charging Type",
+        "value": "3-stage charging"
+      },
+      {
+        "label": "Feature",
+        "value": "Temperature monitoring"
+      }
+    ],
+    "features": [
+      "3-stage charging",
+      "Temperature feature",
+      "14.5V output for 12V batteries",
+      "Simple smart charging"
+    ],
+    "voltage": "12V",
+    "chargingCurrent": "10A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "sold_out",
+    "price": 2499,
+    "oldPrice": 3000,
+    "discount": 17,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homeax-Battery-Charger.jpg?v=1728917939",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homeax-Battery-Charger.jpg?v=1728917939",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homeax-Battery-Charger.jpg?v=1728917939"
+    ],
+    "tags": [
+      "battery charger",
+      "homeax",
+      "smart charger",
+      "12v",
+      "10a"
+    ],
+    "relatedProducts": [
+      "homeax-smart-charger-12v-20a",
+      "ezee-smart-charger-12v-10a",
+      "suoer-son-20a-car-battery-charger"
+    ]
+  },
+  {
+    "id": "homeax-smart-charger-12v-20a",
+    "slug": "homeax-smart-charger-12v-20a",
+    "category": "Battery Charger",
+    "subCategory": "Smart",
+    "brand": "Homeax",
+    "productName": "Homeax Smart Battery Charger Dc12V 20A",
+    "shortDescription": "Homeax smart 12V battery charger with 20A output, 3-stage charging, and temperature monitoring.",
+    "fullDescription": "The Homeax 12V 20A smart charger takes 220V mains input and delivers a 14.5V charging output for 12V batteries. A temperature feature and 3-stage charging profile protect the battery and improve charge quality, making it a dependable solution for routine maintenance and faster charging.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "220V AC"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "14.5V"
+      },
+      {
+        "label": "Output Current",
+        "value": "20A"
+      },
+      {
+        "label": "Charging Type",
+        "value": "3-stage charging"
+      },
+      {
+        "label": "Feature",
+        "value": "Temperature monitoring"
+      }
+    ],
+    "features": [
+      "3-stage charging",
+      "Temperature feature",
+      "14.5V output for 12V batteries",
+      "Simple smart charging"
+    ],
+    "voltage": "12V",
+    "chargingCurrent": "20A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "sold_out",
+    "price": 3499,
+    "oldPrice": 5000,
+    "discount": 30,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homax-20A-1.jpg?v=1728918233",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homax-20A-1.jpg?v=1728918233",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Homax-20A-1.jpg?v=1728918233"
+    ],
+    "tags": [
+      "battery charger",
+      "homeax",
+      "smart charger",
+      "12v",
+      "20a"
+    ],
+    "relatedProducts": [
+      "homeax-smart-charger-12v-10a",
+      "ezee-smart-charger-12v-10a",
+      "suoer-son-20a-car-battery-charger"
+    ]
+  },
+  {
+    "id": "hp-atsn-14v-82a-server-charger",
+    "slug": "hp-atsn-14v-82a-server-charger",
+    "category": "Battery Charger",
+    "subCategory": "Server",
+    "brand": "HP",
+    "productName": "HP ATSN-7001044-Y000 14v 82A Server Battery Charger For All Batterys",
+    "shortDescription": "Genuine HP 82A server battery charger (ATSN-7001044-Y000) delivering 14V at up to 1000W.",
+    "fullDescription": "This HP server battery charger carries part number ATSN-7001044-Y000 and produces 14V at up to 82A and 1000W for large battery packs. It is automatic, cutting off the charge once the battery is full, and continues operating on low mains voltage. Thick 6mm cables with alligator clips are included for direct hook-up.",
+    "specifications": [
+      {
+        "label": "Part Number",
+        "value": "ATSN-7001044-Y000"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "HP"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "14V"
+      },
+      {
+        "label": "Output Current",
+        "value": "82A"
+      },
+      {
+        "label": "Max Output Power",
+        "value": "1000W"
+      }
+    ],
+    "features": [
+      "Genuine HP server charger",
+      "82A output with 1000W maximum power",
+      "Automatic full-charge cut-off",
+      "Works on low mains voltage"
+    ],
+    "voltage": "14V",
+    "chargingCurrent": "82A",
+    "stockStatus": "in_stock",
+    "price": 3999,
+    "oldPrice": 5500,
+    "discount": 27,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/HP-ATSN-7001044-Y000.jpg?v=1728918194",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/HP-ATSN-7001044-Y000.jpg?v=1728918194",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/HP-ATSN-7001044-Y000.jpg?v=1728918194"
+    ],
+    "tags": [
+      "battery charger",
+      "hp",
+      "server battery charger",
+      "14v",
+      "82a"
+    ],
+    "relatedProducts": [
+      "14v-82a-server-battery-charger",
+      "14v-57a-server-battery-charger",
+      "12v-100a-server-power-supply"
+    ]
+  },
+  {
+    "id": "suoer-son-10a-battery-charger",
+    "slug": "suoer-son-10a-battery-charger",
+    "category": "Battery Charger",
+    "subCategory": "Automatic",
+    "brand": "Suoer",
+    "productName": "Original Suoer 10A Charger SON-10A+ 220VAC to 6V 12V DC Fast Battery Charging for Lead Acid/ AGM/ Gel Battery in Pakistan",
+    "shortDescription": "Suoer SON-10A+ automatic charger for 6V/12V lead-acid, AGM and gel batteries with 3-phase charging.",
+    "fullDescription": "The Suoer SON-10A+ charges 6V and 12V lead-acid, wet, maintenance-free, and gel batteries in the 10Ah-200Ah range. A built-in intelligent MCU runs 3-phase charging and automatically stops once the battery is full in auto mode, so it can stay connected without overcharging. Input works from 100V to 240V AC at 50Hz with a max output charging current of 8A. It includes reverse polarity, over-temperature, and short-circuit protection, and can safely charge a car battery without removing it from the vehicle.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "100V-240V AC @ 50Hz"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "6V / 12V DC (selectable)"
+      },
+      {
+        "label": "Max Charging Current",
+        "value": "8A"
+      },
+      {
+        "label": "Battery Range",
+        "value": "10Ah - 200Ah"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Lead Acid / AGM / Gel"
+      }
+    ],
+    "features": [
+      "3-phase automatic charging",
+      "Auto stop at full charge",
+      "Reverse polarity, over-temperature and short-circuit protection",
+      "Suitable for lead-acid, AGM and gel batteries",
+      "Can charge car battery without removal"
+    ],
+    "voltage": "6V / 12V",
+    "chargingCurrent": "8A",
+    "batteryCompatibility": "Lead Acid / AGM / Gel",
+    "stockStatus": "sold_out",
+    "price": 4500,
+    "oldPrice": 8000,
+    "discount": 44,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Son-10A.jpg?v=1728917683",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Son-10A.jpg?v=1728917683",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Son-10A.jpg?v=1728917683"
+    ],
+    "tags": [
+      "battery charger",
+      "suoer",
+      "lead acid charger",
+      "agm gel",
+      "6v 12v",
+      "son-10a"
+    ],
+    "relatedProducts": [
+      "suoer-son-20a-car-battery-charger",
+      "ezee-smart-charger-12v-10a",
+      "ezee20a-pulse-repair-charger"
+    ]
+  },
+  {
+    "id": "professional-12v-smps-10a-20a-30a",
+    "slug": "professional-12v-smps-10a-20a-30a",
+    "category": "Power Supply",
+    "subCategory": "SMPS",
+    "productName": "Professional 12V Power Supply – 10A / 20A / 30A | AC to DC SMPS Adapter | Industrial Grade",
+    "shortDescription": "Industrial-grade 12V SMPS power supply available in 10A, 20A and 30A models with full protection.",
+    "fullDescription": "This professional 12V switching power supply converts 110-220V AC input to regulated 12V DC, available in 10A, 20A, and 30A versions. It is built to industrial grade with high efficiency and low heat, plus overload, short-circuit, and over-voltage protection. Suitable for LED systems, CCTV, routers, automation equipment, and battery charging DIY projects.",
+    "specifications": [
+      {
+        "label": "Input Voltage",
+        "value": "AC 110-220V"
+      },
+      {
+        "label": "Output Voltage",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Output Current",
+        "value": "10A / 20A / 30A"
+      },
+      {
+        "label": "Type",
+        "value": "Industrial Grade SMPS"
+      },
+      {
+        "label": "Protection",
+        "value": "Overload, short-circuit, over-voltage"
+      }
+    ],
+    "features": [
+      "Industrial grade SMPS",
+      "High efficiency with low heat",
+      "Overload, short-circuit and over-voltage protection",
+      "Ideal for LED, CCTV, routers and DIY projects"
+    ],
+    "voltage": "12V DC",
+    "chargingCurrent": "10A / 20A / 30A",
+    "stockStatus": "in_stock",
+    "price": 1690,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v10a.jpg?v=1765286081",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v10a.jpg?v=1765286081",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v20a.jpg?v=1765286084",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/12v30a.jpg?v=1765286086"
+    ],
+    "tags": [
+      "power supply",
+      "smps",
+      "12v",
+      "dc adapter",
+      "industrial"
+    ],
+    "relatedProducts": [
+      "professional-24v-smps-10a-20a-30a",
+      "12v-100a-server-power-supply",
+      "14v-37a-power-supply"
+    ],
+    "variants": [
+      {
+        "name": "12V 10A",
+        "price": 1690,
+        "oldPrice": null,
+        "stockStatus": "sold_out"
+      },
+      {
+        "name": "12V 20A",
+        "price": 2290,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      },
+      {
+        "name": "12V 30A",
+        "price": 2990,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      }
+    ]
+  },
+  {
+    "id": "professional-24v-smps-10a-20a-30a",
+    "slug": "professional-24v-smps-10a-20a-30a",
+    "category": "Power Supply",
+    "subCategory": "SMPS",
+    "productName": "Professional 24V Power Supply – 10A / 20A / 30A | AC to DC SMPS Adapter for Motors, Coolers & DIY Projects",
+    "shortDescription": "Industrial 24V SMPS power supply in 10A, 20A and 30A models for motors, coolers and DIY projects.",
+    "fullDescription": "This professional 24V switching power supply converts AC input to stable, regulated 24V DC in 10A, 20A, and 30A versions. The industrial SMPS design delivers smooth output with overload, short-circuit, and over-voltage protection. It suits motors, cooling systems, DC fans, CNC machines, robotics, and solar DC systems.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "DC 24V"
+      },
+      {
+        "label": "Output Current",
+        "value": "10A / 20A / 30A"
+      },
+      {
+        "label": "Type",
+        "value": "Industrial Grade SMPS"
+      },
+      {
+        "label": "Protection",
+        "value": "Overload, short-circuit, over-voltage"
+      }
+    ],
+    "features": [
+      "Stable 24V regulated output",
+      "Available in 10A / 20A / 30A",
+      "Industrial SMPS design",
+      "Overload, short-circuit and over-voltage protection"
+    ],
+    "voltage": "24V DC",
+    "chargingCurrent": "10A / 20A / 30A",
+    "stockStatus": "in_stock",
+    "price": 2490,
+    "oldPrice": null,
+    "discount": 0,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/24v10a_287732cc-a60f-4ebe-aa11-6d48eb43602e.jpg?v=1765286960",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/24v10a_287732cc-a60f-4ebe-aa11-6d48eb43602e.jpg?v=1765286960",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/24v20a_2462e914-0b45-45da-aa31-3e19864c14ac.jpg?v=1765286961"
+    ],
+    "tags": [
+      "power supply",
+      "smps",
+      "24v",
+      "dc adapter",
+      "industrial"
+    ],
+    "relatedProducts": [
+      "professional-12v-smps-10a-20a-30a",
+      "12v-100a-server-power-supply",
+      "14v-57a-server-battery-charger"
+    ],
+    "variants": [
+      {
+        "name": "24V 10A",
+        "price": 2490,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      },
+      {
+        "name": "24V 20A",
+        "price": 3990,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      },
+      {
+        "name": "24V 30A",
+        "price": 8500,
+        "oldPrice": null,
+        "stockStatus": "in_stock"
+      }
+    ]
+  },
+  {
+    "id": "simtek-planet-40-mppt-controller",
+    "slug": "simtek-planet-40-mppt-controller",
+    "category": "Charge Controller",
+    "subCategory": "MPPT",
+    "brand": "Simtek",
+    "productName": "Simtek Planet 40 – 40A MPPT Solar Charge Controller – 70 VOC, 40A | 12V | Low Battery Load Cutoff | Works with & without Battery – 3 Months Warranty",
+    "shortDescription": "Simtek Planet40 MPPT solar charge controller with 40A output, 70V Voc, low-battery load cutoff and 3 months warranty.",
+    "fullDescription": "The Planet40 is a 40A MPPT solar charge controller rated for 12V systems with a 70V maximum PV input (Voc). Its advanced MPPT algorithm maximizes solar energy yield while minimizing losses, and a low-battery load cutoff protects stored energy. It can run DC loads even without a battery connected, making it flexible for off-grid and residential solar setups. The unit carries a 3 months warranty.",
+    "specifications": [
+      {
+        "label": "Charge Current",
+        "value": "40A"
+      },
+      {
+        "label": "Max PV Input",
+        "value": "70V (Voc)"
+      },
+      {
+        "label": "System Voltage",
+        "value": "12V"
+      },
+      {
+        "label": "Charging Type",
+        "value": "MPPT"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Months Warranty"
+      }
+    ],
+    "features": [
+      "Advanced MPPT technology for maximum yield",
+      "Runs DC loads with or without a battery",
+      "Low-battery load cutoff",
+      "Ideal for residential and off-grid solar"
+    ],
+    "voltage": "12V",
+    "chargingCurrent": "40A",
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 7999,
+    "oldPrice": 9900,
+    "discount": 19,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty.jpg?v=1753182616",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty.jpg?v=1753182616",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty..jpg?v=1753182621",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty...jpg?v=1753182624",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty....jpg?v=1753182626",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty......jpg?v=1753182630",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty.......jpg?v=1753182632",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty...........jpg?v=1753182637",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/SimtekPlanet4040AMPPTSolarChargeController70VOC_40A12VLowBatteryLoadCutoffWorkswith_withoutBattery3MonthsWarranty.....0...jpg?v=1753182640"
+    ],
+    "tags": [
+      "charge controller",
+      "simtek",
+      "mppt",
+      "solar charge controller",
+      "40a"
+    ],
+    "relatedProducts": [
+      "gotion-3-7v-50ah-cell",
+      "digitech-3-in-1-hybrid-device",
+      "14v-32a-battery-charger"
+    ]
+  },
+  {
+    "id": "ezee-smart-charger-12v-10a",
+    "slug": "ezee-smart-charger-12v-10a",
+    "category": "Battery Charger",
+    "subCategory": "Smart",
+    "brand": "EZEE",
+    "productName": "Smart Battery Charger Dc 12V 10A EZEE",
+    "shortDescription": "EZEE smart 12V battery charger with 10A output for automatic and safe battery maintenance.",
+    "fullDescription": "The EZEE 12V smart charger provides a 10A output for charging and maintaining 12V batteries. Its automatic smart charging routine helps keep the battery healthy without the need for manual monitoring.",
+    "specifications": [
+      {
+        "label": "Output Voltage",
+        "value": "12V DC"
+      },
+      {
+        "label": "Output Current",
+        "value": "10A"
+      },
+      {
+        "label": "Type",
+        "value": "Smart Battery Charger"
+      }
+    ],
+    "features": [
+      "10A smart charging output",
+      "Automatic charging routine",
+      "Suitable for 12V batteries"
+    ],
+    "voltage": "12V",
+    "chargingCurrent": "10A",
+    "batteryCompatibility": "Lead Acid",
+    "stockStatus": "sold_out",
+    "price": 2250,
+    "oldPrice": 3000,
+    "discount": 25,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Smart-Battery-Charger-Dc-12V-10A.jpg?v=1728918052",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Smart-Battery-Charger-Dc-12V-10A.jpg?v=1728918052",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Smart-Battery-Charger-Dc-12V-10A.jpg?v=1728918052"
+    ],
+    "tags": [
+      "battery charger",
+      "ezee",
+      "smart charger",
+      "12v",
+      "10a"
+    ],
+    "relatedProducts": [
+      "homeax-smart-charger-12v-10a",
+      "suoer-son-20a-car-battery-charger",
+      "suoer-son-10a-battery-charger"
+    ]
+  },
+  {
+    "id": "xh-m609-low-voltage-module",
+    "slug": "xh-m609-low-voltage-module",
+    "category": "Module",
+    "subCategory": "Protection",
+    "productName": "Xh-m609 Digital Low Voltage Disconnect Module, Over Charge/discharge/current And Short Circuit Protection For 12-36v Dc Battery",
+    "shortDescription": "XH-M609 digital low voltage disconnect module with over-charge, over-discharge, over-current and short-circuit protection.",
+    "fullDescription": "The XH-M609 is a digital low-voltage disconnect module for 12V-36V DC battery systems. It disconnects the load at a programmable low voltage to protect the battery, with 0.1V control accuracy and under 1.5W power draw. Over-charge, over-discharge, over-current, and short-circuit protection safeguard connected batteries and equipment.",
+    "specifications": [
+      {
+        "label": "Supply Voltage",
+        "value": "12-36V DC"
+      },
+      {
+        "label": "Control Accuracy",
+        "value": "0.1V"
+      },
+      {
+        "label": "Power Consumption",
+        "value": "< 1.5W"
+      },
+      {
+        "label": "Protection",
+        "value": "Over-charge, over-discharge, over-current, short-circuit"
+      }
+    ],
+    "features": [
+      "Digital low-voltage load disconnect",
+      "Over-charge, over-discharge, over-current and short-circuit protection",
+      "0.1V control accuracy",
+      "Very low power consumption"
+    ],
+    "voltage": "12-36V DC",
+    "batteryCompatibility": "Lithium and other DC batteries",
+    "stockStatus": "in_stock",
+    "price": 750,
+    "oldPrice": 850,
+    "discount": 12,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_1.jpg?v=1753879706",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_1.jpg?v=1753879706",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_2.jpg?v=1753879719",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_3.jpg?v=1753879735",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_4.jpg?v=1753879749",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_5.jpg?v=1753879764",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_6.jpg?v=1753879776",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Xhm609DigitalLowVoltageDisconnectModule_OverChargedischargecurrentAndShortCircuitProtectionFor1236vDcBattery_7.jpg?v=1753879789"
+    ],
+    "tags": [
+      "module",
+      "low voltage disconnect",
+      "protection module",
+      "xh-m609",
+      "12v 36v"
+    ],
+    "relatedProducts": [
+      "gotion-3-7v-50ah-cell",
+      "18650-8-bay-battery-charger",
+      "digitech-3-in-1-hybrid-device"
+    ]
+  },
+  {
+    "id": "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+    "slug": "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+    "category": "Solar Inverters",
+    "subCategory": "Galaxy",
+    "brand": "Galaxy",
+    "productName": "Galaxy Ultra Plus 4KW PV5600 Hybrid Solar Inverter",
+    "shortDescription": "4KW PV5600 hybrid solar inverter delivering advanced high-efficiency solar power conversion for residential and small commercial use.",
+    "fullDescription": "The Galaxy Ultra Plus 4KW PV5600 is a hybrid solar inverter that combines solar charging, battery backup, and mains input in one unit for uninterrupted residential and small commercial power. It prioritizes solar energy during the day and automatically manages the switch between solar, battery, and mains to keep your home running efficiently. High-efficiency conversion maximizes the energy harvested from your panels while protecting connected appliances. A complete solution for homes and small businesses looking to reduce their electricity bills with solar power.",
+    "specifications": [
+      {
+        "label": "Output Power",
+        "value": "4KW"
+      },
+      {
+        "label": "Model",
+        "value": "PV5600"
+      },
+      {
+        "label": "Type",
+        "value": "Hybrid Solar Inverter"
+      },
+      {
+        "label": "Power Source",
+        "value": "Solar / Battery / Mains"
+      },
+      {
+        "label": "Application",
+        "value": "Residential / Small Commercial"
+      }
+    ],
+    "features": [
+      "Hybrid operation with solar, battery and mains input",
+      "High-efficiency solar power conversion",
+      "Automatic priority switching between power sources",
+      "Suitable for residential and small commercial use",
+      "Complete solar power backup solution"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 75000,
+    "oldPrice": 85000,
+    "discount": 12,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/galaxy-ultra-plus-4kw-hybrid-solar-inverter_jpg.webp?v=1786261970",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/galaxy-ultra-plus-4kw-hybrid-solar-inverter_jpg.webp?v=1786261970",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/galaxy-ultra-plus-4kw-hybrid-solar-inverter_jpg.webp?v=1786261970"
+    ],
+    "tags": [
+      "solar inverter",
+      "hybrid",
+      "galaxy",
+      "4kw"
+    ],
+    "relatedProducts": [
+      "ayan-60a-mppt-solar-charge-controller-12v-24v",
+      "nalibatt-12v-100ah-lifepo4-lithium-battery",
+      "simtek-planet-40-mppt-controller"
+    ]
+  },
+  {
+    "id": "nalibatt-12v-100ah-lifepo4-lithium-battery",
+    "slug": "nalibatt-12v-100ah-lifepo4-lithium-battery",
+    "category": "Lithium Batteries",
+    "subCategory": "LiFePO4",
+    "brand": "Nalibatt",
+    "productName": "Nalibatt 12V 100Ah LiFePO4 Lithium Battery",
+    "shortDescription": "1280Wh deep cycle solar lithium battery with built-in BMS and 3 years warranty for reliable energy storage.",
+    "fullDescription": "The Nalibatt 12V 100Ah LiFePO4 battery stores 1280Wh of energy for solar systems, UPS backup, and off-grid applications. A built-in Battery Management System (BMS) protects against overcharge, over-discharge, and short circuits for safe daily cycling. Lithium iron phosphate chemistry delivers thousands of charge cycles and consistent power output without the maintenance of lead-acid batteries. It carries a 3 years warranty for long-term peace of mind.",
+    "specifications": [
+      {
+        "label": "Voltage",
+        "value": "12V"
+      },
+      {
+        "label": "Capacity",
+        "value": "100Ah"
+      },
+      {
+        "label": "Energy",
+        "value": "1280Wh"
+      },
+      {
+        "label": "Chemistry",
+        "value": "LiFePO4"
+      },
+      {
+        "label": "BMS",
+        "value": "Built-in"
+      },
+      {
+        "label": "Warranty",
+        "value": "3 Years Warranty"
+      }
+    ],
+    "features": [
+      "1280Wh of deep cycle energy storage",
+      "Built-in BMS with overcharge, over-discharge and short-circuit protection",
+      "LiFePO4 chemistry for long cycle life",
+      "Maintenance-free operation",
+      "3 Years Warranty"
+    ],
+    "voltage": "12V",
+    "batteryCompatibility": "LiFePO4",
+    "warranty": "3 Years Warranty",
+    "stockStatus": "in_stock",
+    "price": 59999,
+    "oldPrice": 65200,
+    "discount": 8,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3772.png?width=600&v=1785723846",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3772.png?width=600&v=1785723846",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3772.png?width=600&v=1785723846"
+    ],
+    "tags": [
+      "lifepo4",
+      "lithium battery",
+      "solar battery",
+      "bms"
+    ],
+    "relatedProducts": [
+      "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+      "suoer-sua-2000c-inverter-charger",
+      "fnihrmrsi-10-battery-internal-resistance-tester"
+    ]
+  },
+  {
+    "id": "ayan-60a-mppt-solar-charge-controller-12v-24v",
+    "slug": "ayan-60a-mppt-solar-charge-controller-12v-24v",
+    "category": "Solar Charge Controllers",
+    "subCategory": "MPPT",
+    "brand": "Ayan",
+    "productName": "60A MPPT Solar Charge Controller 12V/24V (Ayan MPPT)",
+    "shortDescription": "Smart 60A MPPT solar charge controller for 12V/24V battery systems with maximum power point tracking.",
+    "fullDescription": "This 60A MPPT solar charge controller works with 12V and 24V battery systems, intelligently tracking the maximum power point of your solar panels. The MPPT algorithm harvests more energy from the panel than a PWM controller, especially during low light and cloudy conditions. It protects batteries from overcharge, over-discharge, reverse polarity, and short circuit. A smart charging routine keeps connected batteries healthy over many charge cycles.",
+    "specifications": [
+      {
+        "label": "Charge Current",
+        "value": "60A"
+      },
+      {
+        "label": "System Voltage",
+        "value": "12V / 24V"
+      },
+      {
+        "label": "Controller Type",
+        "value": "MPPT"
+      },
+      {
+        "label": "Brand",
+        "value": "Ayan"
+      },
+      {
+        "label": "Charging Type",
+        "value": "Smart solar battery charging"
+      }
+    ],
+    "features": [
+      "Maximum Power Point Tracking for higher solar yield",
+      "Works with 12V and 24V battery systems",
+      "Overcharge, over-discharge, reverse polarity and short-circuit protection",
+      "Smart charging routine for healthy batteries",
+      "More efficient than PWM controllers in low light"
+    ],
+    "voltage": "12V / 24V",
+    "chargingCurrent": "60A",
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 10999,
+    "oldPrice": 13000,
+    "discount": 15,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-20200818-WA0020.jpg?v=1728916849",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-20200818-WA0020.jpg?v=1728916849",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-20200818-WA0028.jpg?v=1728916852"
+    ],
+    "tags": [
+      "mppt",
+      "charge controller",
+      "solar"
+    ],
+    "relatedProducts": [
+      "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+      "simtek-planet-40-mppt-controller",
+      "tomzn-tob7z-63-4p-dc-1200v-mini-circuit-breaker"
+    ]
+  },
+  {
+    "id": "tomzn-tob7z-63-4p-dc-1200v-mini-circuit-breaker",
+    "slug": "tomzn-tob7z-63-4p-dc-1200v-mini-circuit-breaker",
+    "category": "Breakers & Protection",
+    "subCategory": "DC Breakers",
+    "brand": "TOMZN",
+    "productName": "TOMZN TOB7Z-63 4P DC 1200V Mini Circuit Breaker",
+    "shortDescription": "4-pole DC mini circuit breaker rated up to 1200V for solar PV protection with DIN rail mounting.",
+    "fullDescription": "The TOMZN TOB7Z-63 is a 4-pole DC miniature circuit breaker rated up to 1200V for solar PV protection. It safeguards panels, inverters, and batteries from over-current faults in DC circuits. The compact DIN rail design makes installation into distribution boards quick and clean. Reliable trip characteristics protect sensitive solar equipment during surges and short circuits.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "TOB7Z-63"
+      },
+      {
+        "label": "Poles",
+        "value": "4P"
+      },
+      {
+        "label": "Rated Voltage",
+        "value": "DC 1200V"
+      },
+      {
+        "label": "Type",
+        "value": "Mini Circuit Breaker"
+      },
+      {
+        "label": "Application",
+        "value": "Solar PV Protection"
+      }
+    ],
+    "features": [
+      "4-pole DC mini circuit breaker",
+      "Rated up to 1200V DC for solar PV",
+      "Over-current and short-circuit protection",
+      "DIN rail mounting for easy installation",
+      "Compact design for distribution boards"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 2999,
+    "oldPrice": 3500,
+    "discount": 14,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3766.png?width=600&v=1785722134",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3766.png?width=600&v=1785722134",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3765.png?width=600&v=1785722134"
+    ],
+    "tags": [
+      "dc breaker",
+      "tomzn",
+      "solar protection",
+      "mcb"
+    ],
+    "relatedProducts": [
+      "32a-double-pole-dc-circuit-breaker-solar-system",
+      "tomzn-tova-63t-63a-wifi-smart-protector",
+      "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter"
+    ]
+  },
+  {
+    "id": "32a-double-pole-dc-circuit-breaker-solar-system",
+    "slug": "32a-double-pole-dc-circuit-breaker-solar-system",
+    "category": "Breakers & Protection",
+    "subCategory": "DC Breakers",
+    "brand": "Generic",
+    "productName": "32A Double Pole DC Circuit Breaker For Solar System",
+    "shortDescription": "32A double pole DC circuit breaker for solar system over-current protection with DIN rail mounting.",
+    "fullDescription": "This 32A double pole DC circuit breaker is designed for solar systems and battery circuits that need reliable DC protection. The double pole configuration disconnects both positive and negative lines for complete isolation during faults. It mounts on a standard DIN rail alongside other solar distribution components. A dependable, low-cost option for protecting panels, batteries, and loads from over-current faults.",
+    "specifications": [
+      {
+        "label": "Rated Current",
+        "value": "32A"
+      },
+      {
+        "label": "Poles",
+        "value": "2P (Double Pole)"
+      },
+      {
+        "label": "Type",
+        "value": "DC Circuit Breaker"
+      },
+      {
+        "label": "Application",
+        "value": "Solar System Protection"
+      },
+      {
+        "label": "Mounting",
+        "value": "DIN Rail"
+      }
+    ],
+    "features": [
+      "32A rated double pole DC breaker",
+      "Disconnects both positive and negative lines",
+      "DIN rail mounting",
+      "Protects solar panels, batteries and loads",
+      "Low-cost solar system protection"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 890,
+    "oldPrice": 1500,
+    "discount": 41,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Schneider-DC-32a-Breaker.jpg?v=1728916403",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Schneider-DC-32a-Breaker.jpg?v=1728916403",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/Schneider-DC-32a-Breaker.jpg?v=1728916403"
+    ],
+    "tags": [
+      "dc breaker",
+      "solar"
+    ],
+    "relatedProducts": [
+      "tomzn-tob7z-63-4p-dc-1200v-mini-circuit-breaker",
+      "mora-80a-va-protector-2026"
+    ]
+  },
+  {
+    "id": "mora-80a-va-protector-2026",
+    "slug": "mora-80a-va-protector-2026",
+    "category": "Breakers & Protection",
+    "subCategory": "VA Protectors",
+    "brand": "MORA",
+    "productName": "MORA Bulgaria 80A VA Protector 2026",
+    "shortDescription": "Digital voltage and current protector with time delay that safeguards appliances from over and under voltage.",
+    "fullDescription": "The MORA Bulgaria 80A VA protector continuously monitors incoming voltage and current and disconnects the load when levels go out of the safe range. A built-in time delay restores power automatically once the mains supply stabilizes, protecting refrigerators, air conditioners, and other appliances. The digital display shows live voltage and current readings for easy monitoring. This 2026 model is a dependable safeguard for homes and shops against Pakistan's fluctuating grid supply.",
+    "specifications": [
+      {
+        "label": "Rated Current",
+        "value": "80A"
+      },
+      {
+        "label": "Brand",
+        "value": "MORA"
+      },
+      {
+        "label": "Origin",
+        "value": "Bulgaria"
+      },
+      {
+        "label": "Type",
+        "value": "Digital VA Protector"
+      },
+      {
+        "label": "Protection",
+        "value": "Over / under voltage with time delay"
+      }
+    ],
+    "features": [
+      "Digital monitoring of voltage and current",
+      "Time delay auto-reconnect after supply stabilizes",
+      "Protects appliances from over and under voltage",
+      "Digital display of live readings",
+      "Suitable for home and shop mains protection"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 1599,
+    "oldPrice": 2500,
+    "discount": 36,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3350.png?width=600&v=1784401715",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3350.png?width=600&v=1784401715",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3347.png?width=600&v=1784401715",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3346.png?width=600&v=1784401715",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/IMG-3344.png?width=600&v=1784401715"
+    ],
+    "tags": [
+      "va protector",
+      "mora",
+      "voltage protector"
+    ],
+    "relatedProducts": [
+      "tomzn-tova-63t-63a-wifi-smart-protector",
+      "32a-double-pole-dc-circuit-breaker-solar-system"
+    ]
+  },
+  {
+    "id": "tomzn-tova-63t-63a-wifi-smart-protector",
+    "slug": "tomzn-tova-63t-63a-wifi-smart-protector",
+    "category": "Breakers & Protection",
+    "subCategory": "AC Breakers",
+    "brand": "TOMZN",
+    "productName": "TOMZN TOVA-63T 63A WiFi Smart Protector 10-in-1",
+    "shortDescription": "63A WiFi smart protector with under/over voltage, earth leakage, memory function and kWh unit lock, controlled via Tuya / Smart Life.",
+    "fullDescription": "The TOMZN TOVA-63T is a 10-in-1 WiFi smart protector rated at 63A and controllable from your phone through the Tuya or Smart Life app. It combines under/over voltage protection, earth leakage protection, and kWh unit lock functions in a single device. The memory function keeps your settings after a power cut, and remote on/off lets you manage loads from anywhere. An ideal upgrade for homes and shops that want smart monitoring and protection for their AC circuits.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "TOVA-63T"
+      },
+      {
+        "label": "Rated Current",
+        "value": "63A"
+      },
+      {
+        "label": "Functions",
+        "value": "10-in-1 smart protection"
+      },
+      {
+        "label": "Protection",
+        "value": "Under / over voltage, earth leakage"
+      },
+      {
+        "label": "Control",
+        "value": "WiFi via Tuya / Smart Life"
+      }
+    ],
+    "features": [
+      "WiFi control through Tuya / Smart Life app",
+      "Under and over voltage protection",
+      "Earth leakage protection",
+      "Memory function retains settings after power cut",
+      "kWh unit lock for consumption control"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 5500,
+    "oldPrice": 7500,
+    "discount": 27,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/TomznTOVA63T63AWiFiSmartProtectorMini10in1MemoryFunctionkWhUnitLockUnder_OverVoltageEarthLeakageProtectionTuyaSmart_SmartLife.webp?v=1785318038",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/TomznTOVA63T63AWiFiSmartProtectorMini10in1MemoryFunctionkWhUnitLockUnder_OverVoltageEarthLeakageProtectionTuyaSmart_SmartLife.webp?v=1785318038",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/TomznTOVA63T63AWiFiSmartProtectorMini10in1MemoryFunctionkWhUnitLockUnder_OverVoltageEarthLeakageProtectionTuyaSmart_SmartLife.webp?v=1785318038"
+    ],
+    "tags": [
+      "wifi protector",
+      "tomzn",
+      "smart breaker"
+    ],
+    "relatedProducts": [
+      "mora-80a-va-protector-2026",
+      "tomzn-tob7z-63-4p-dc-1200v-mini-circuit-breaker"
+    ]
+  },
+  {
+    "id": "inverterzone-solar-wifi-dongle",
+    "slug": "inverterzone-solar-wifi-dongle",
+    "category": "Solar Accessories",
+    "subCategory": "Monitoring",
+    "brand": "InverterZone",
+    "productName": "InverterZone Solar WiFi Dongle",
+    "shortDescription": "RJ45/RS232 WiFi monitoring dongle for solar inverters with Android and iOS app support.",
+    "fullDescription": "The InverterZone Solar WiFi Dongle connects your hybrid solar inverter to your home WiFi network for remote monitoring. It plugs into the inverter's RJ45 or RS232 monitoring port and streams live power data to your phone. Both Android and iOS apps are supported, letting you check solar generation, battery status, and system health from anywhere. An easy way to keep an eye on your solar system without extra wiring.",
+    "specifications": [
+      {
+        "label": "Interface",
+        "value": "RJ45 / RS232"
+      },
+      {
+        "label": "Connectivity",
+        "value": "WiFi"
+      },
+      {
+        "label": "App Support",
+        "value": "Android & iOS"
+      },
+      {
+        "label": "Brand",
+        "value": "InverterZone"
+      },
+      {
+        "label": "Function",
+        "value": "Solar system remote monitoring"
+      }
+    ],
+    "features": [
+      "Remote monitoring via WiFi",
+      "RJ45 / RS232 connection to inverter",
+      "Android and iOS app support",
+      "Live solar generation and battery status",
+      "Easy plug-and-play setup"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 6999,
+    "oldPrice": 8500,
+    "discount": 18,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/InverterZoneSolarWiFiDongleforSolarInvertersRJ45RS232MonitoringDeviceAndroid_iOSAppSupport_SpecialModel_1.png?width=600&v=1784974091",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/InverterZoneSolarWiFiDongleforSolarInvertersRJ45RS232MonitoringDeviceAndroid_iOSAppSupport_SpecialModel_1.png?width=600&v=1784974091",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/InverterZoneSolarWiFiDongleforSolarInvertersRJ45RS232MonitoringDeviceAndroid_iOSAppSupport_SpecialModel_2.png?width=600&v=1784974091",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/InverterZoneSolarWiFiDongleforSolarInvertersRJ45RS232MonitoringDeviceAndroid_iOSAppSupport_SpecialModel_3.png?width=600&v=1784974091",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/InverterZoneSolarWiFiDongleforSolarInvertersRJ45RS232MonitoringDeviceAndroid_iOSAppSupport_SpecialModel_4.png?width=600&v=1784974091"
+    ],
+    "tags": [
+      "wifi dongle",
+      "solar monitoring",
+      "inverterzone"
+    ],
+    "relatedProducts": [
+      "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+      "ayan-60a-mppt-solar-charge-controller-12v-24v"
+    ]
+  },
+  {
+    "id": "voltronic-cooling-fan-hybrid-solar-inverters",
+    "slug": "voltronic-cooling-fan-hybrid-solar-inverters",
+    "category": "Solar Accessories",
+    "subCategory": "Cooling Fans",
+    "brand": "Voltronic",
+    "productName": "Genuine Voltronic Cooling Fan For All Hybrid Solar Inverters",
+    "shortDescription": "Replacement cooling fan compatible with Inverex, Galaxy, MaxPower, SolarMax, Crown and Tesla hybrid inverters.",
+    "fullDescription": "This genuine Voltronic cooling fan is a direct replacement for the cooling fans used inside Inverex, Galaxy, MaxPower, SolarMax, Crown, and Tesla hybrid solar inverters. It keeps the inverter power stage within a safe operating temperature so performance stays reliable under heavy load and peak summer heat. A failing fan is the most common cause of inverter overheating, so replacing it promptly protects your expensive equipment. Simple to swap with basic tools once the inverter is powered off.",
+    "specifications": [
+      {
+        "label": "Brand",
+        "value": "Voltronic"
+      },
+      {
+        "label": "Type",
+        "value": "Cooling Fan"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Inverex, Galaxy, MaxPower, SolarMax, Crown, Tesla hybrid inverters"
+      },
+      {
+        "label": "Function",
+        "value": "Inverter cooling / heat dissipation"
+      }
+    ],
+    "features": [
+      "Genuine Voltronic replacement fan",
+      "Fits Inverex, Galaxy, MaxPower, SolarMax, Crown and Tesla hybrids",
+      "Prevents inverter overheating",
+      "Easy replacement with basic tools",
+      "Protects expensive inverter electronics"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 2999,
+    "oldPrice": 3900,
+    "discount": 23,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FF0C8818-CF01-499A-8A51-8D5CC344DCE7.png?width=600&v=1786153965",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FF0C8818-CF01-499A-8A51-8D5CC344DCE7.png?width=600&v=1786153965",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FF0C8818-CF01-499A-8A51-8D5CC344DCE7.png?width=600&v=1786153965"
+    ],
+    "tags": [
+      "cooling fan",
+      "voltronic",
+      "hybrid inverter"
+    ],
+    "relatedProducts": [
+      "galaxy-ultra-plus-4kw-pv5600-hybrid-solar-inverter",
+      "suoer-sua-2000c-inverter-charger",
+      "inverterzone-solar-wifi-dongle"
+    ]
+  },
+  {
+    "id": "fnihrmrsi-10-battery-internal-resistance-tester",
+    "slug": "fnihrmrsi-10-battery-internal-resistance-tester",
+    "category": "Solar Accessories",
+    "subCategory": "Testers",
+    "brand": "FNIHRMRSI",
+    "productName": "FNIHRMRSI-10 Battery Internal Resistance Tester",
+    "shortDescription": "4-wire Kelvin battery internal resistance tester for Lithium, LiFePO4 and lead acid batteries.",
+    "fullDescription": "The FNIHRMRSI-10 uses a 4-wire Kelvin measurement to accurately read battery internal resistance, helping you judge the real health of a battery. It supports Lithium, LiFePO4, and lead acid batteries commonly used in solar, UPS, and vehicle systems. Internal resistance is the best early indicator of a degrading battery, so this tester helps you replace weak cells before they fail. A practical tool for installers, workshops, and anyone managing battery banks.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "FNIHRMRSI-10"
+      },
+      {
+        "label": "Measurement",
+        "value": "4-wire Kelvin battery internal resistance"
+      },
+      {
+        "label": "Battery Types",
+        "value": "Lithium, LiFePO4, Lead Acid"
+      },
+      {
+        "label": "Function",
+        "value": "Battery health analyzer"
+      },
+      {
+        "label": "Application",
+        "value": "Solar, UPS, vehicle battery testing"
+      }
+    ],
+    "features": [
+      "Accurate 4-wire Kelvin resistance measurement",
+      "Tests Lithium, LiFePO4 and lead acid batteries",
+      "Early detection of degrading batteries",
+      "Ideal for solar, UPS and workshop use",
+      "Portable battery health analyzer"
+    ],
+    "warranty": "3 Months Warranty",
+    "stockStatus": "in_stock",
+    "price": 11999,
+    "oldPrice": 15999,
+    "discount": 25,
+    "rating": 0,
+    "reviews": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FNIRSIHRM10BatteryInternalResistanceTester4WireKelvinBatteryAnalyzerLithiumLiFePO4_LeadAcidBatteryTester.png?width=600&v=1785316321",
+    "galleryImages": [
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FNIRSIHRM10BatteryInternalResistanceTester4WireKelvinBatteryAnalyzerLithiumLiFePO4_LeadAcidBatteryTester.png?width=600&v=1785316321",
+      "https://cdn.shopify.com/s/files/1/0651/6903/1305/files/FNIRSIHRM10BatteryInternalResistanceTester4WireKelvinBatteryAnalyzerLithiumLiFePO4_LeadAcidBatteryTester.png?width=600&v=1785316321"
+    ],
+    "tags": [
+      "battery tester",
+      "kelvin",
+      "resistance tester"
+    ],
+    "relatedProducts": [
+      "nalibatt-12v-100ah-lifepo4-lithium-battery",
+      "gotion-3-7v-50ah-cell"
+    ]
+  }
+]

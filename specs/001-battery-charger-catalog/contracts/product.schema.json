@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://anas.electronics/schemas/product.schema.json",
+  "title": "Product",
+  "description": "Battery charger catalog product entity (source: smarteshop.pk). Contract for data/products.json entries.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "slug", "category", "productName", "shortDescription", "fullDescription", "stockStatus", "price", "image", "relatedProducts"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "category": { "type": "string", "minLength": 1 },
+    "subCategory": { "type": "string" },
+    "brand": { "type": "string" },
+    "productName": { "type": "string", "minLength": 1 },
+    "shortDescription": { "type": "string" },
+    "fullDescription": { "type": "string" },
+    "specifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "value"],
+        "properties": {
+          "label": { "type": "string" },
+          "value": { "type": "string" }
+        }
+      }
+    },
+    "features": { "type": "array", "items": { "type": "string" } },
+    "voltage": { "type": "string" },
+    "chargingCurrent": { "type": "string" },
+    "batteryCompatibility": { "type": "string" },
+    "warranty": { "type": "string" },
+    "stockStatus": { "type": "string", "enum": ["in_stock", "sold_out"] },
+    "price": { "type": "number", "minimum": 0 },
+    "oldPrice": { "type": ["number", "null"], "minimum": 0 },
+    "discount": { "type": "number", "minimum": 0, "maximum": 100 },
+    "rating": { "type": "number", "minimum": 0, "maximum": 5 },
+    "reviews": { "type": "number", "minimum": 0 },
+    "image": { "type": "string", "format": "uri" },
+    "galleryImages": { "type": "array", "items": { "type": "string", "format": "uri" } },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "relatedProducts": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" } },
+    "variants": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/variant" }
+    }
+  },
+  "$defs": {
+    "variant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "price", "stockStatus"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "price": { "type": "number", "minimum": 0 },
+        "oldPrice": { "type": ["number", "null"], "minimum": 0 },
+        "stockStatus": { "type": "string", "enum": ["in_stock", "sold_out"] }
+      }
+    }
+  }
+}

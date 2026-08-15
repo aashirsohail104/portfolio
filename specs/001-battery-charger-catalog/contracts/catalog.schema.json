@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://anas.electronics/schemas/catalog.schema.json",
+  "title": "Catalog",
+  "description": "Root contract for the battery charger catalog JSON data layer. Documents the shape consumed by src/lib/api/client.ts.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "products", "categories"],
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Data layer schema version, e.g. 1.0.0. Changing this signals a migration.",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "lastUpdated": { "type": "string", "format": "date" }
+      }
+    },
+    "products": {
+      "type": "array",
+      "items": { "$ref": "product.schema.json" }
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "slug"],
+        "properties": {
+          "name": { "type": "string" },
+          "slug": { "type": "string" },
+          "subCategories": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["name", "slug"],
+              "properties": {
+                "name": { "type": "string" },
+                "slug": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
