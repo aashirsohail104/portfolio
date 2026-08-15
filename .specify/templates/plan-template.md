@@ -31,11 +31,7 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file. For frontend features, mandatory
-gates from the Anas Electronics constitution: 21st.dev MCP-first search before
-manual component creation, WCAG 2.2 AA accessibility, Lighthouse Performance ≥
-98 / Accessibility ≥ 100 / SEO ≥ 100 / Best Practices ≥ 100, CLS < 0.05, LCP <
-2s, INP < 200ms.]
+[Gates determined based on constitution file]
 
 ## Project Structure
 
